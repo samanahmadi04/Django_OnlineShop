@@ -9,7 +9,7 @@ This project is a fully functional online shop built with Django, a high-level P
 - **Shopping Cart:** Intuitive cart functionality for users to review and manage selected items.
 - **Order Processing:** Streamlined order processing system with order tracking.
 - **Responsive Design:** Mobile-friendly design for optimal user experience on various devices.
-- **Customized Admin Panel:** We have implemented a customized admin panel for efficient management of products and comments.
+- **Customized Admin Panel:**a customized admin panel for efficient management of products and comments.
 - **Product Filtering:** Easily filter products based on categories and availability in the admin panel.
 - **Comment Section:** Integrated comment section for each product to engage with users and gather feedback..
 
